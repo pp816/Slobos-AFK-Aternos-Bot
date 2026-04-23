@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mctiers6767.aternos.me",
+    "ip": "mctiers6767.aternos.me:51815",
     "port": 51815,
     "version": "",
     "try-creative": false
